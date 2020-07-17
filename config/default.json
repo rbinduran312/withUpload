@@ -1,0 +1,6 @@
+{
+"mongoURI": "mongodb+srv://chris10:5zSDyKKS238URX@cluster0-friqx.azure.mongodb.net/upload?retryWrites=true&w=majority",
+"cognitoClientId": "34524dvl31gse4v09bnejt0499",
+"cognitoPoolId": "us-east-1_Nyqobq2qH",
+"cognitoPoolRegion": "us-east-1"
+}
